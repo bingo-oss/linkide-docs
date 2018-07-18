@@ -1,10 +1,11 @@
-# 小程序开发
+# 移动轻应用开发-Weex
 
-移动端轻应用，其中一种是小程序，基于 [weex](https://weex-project.io/) 框架（区别于微信小程序）、Vue、webpack、node技术体系构建应用。与webapp不同，它最后渲染出来是原生的组件。因此在流畅性和体验上比webapp要好。
+[weex](https://weex-project.io/)是一套构建高性能、可扩展的原生应用跨平台开发方案，致力于使用 Web开发技术，使用同一套代码来构建跨平台应用。weex提供渲染引擎，语法解析引擎，开发者基于Vue、webpack、node技术体系构建应用，渲染出来的是原生组件，流畅性和体验上比webapp要好。目前的弊端是开发门槛较高。
+
 
 | UI框架 | JSSDK | 调试工具 | 
 | :----: |:----:|:----:|
-| [BUI](http://dev.bingocc.com/buiweex/) | [LinkAPI JSSDK](https://www.npmjs.com/package/linkapi) | [Playground](https://weex-project.io/cn/tools/playground.html) |
+| [BUI-Weex](http://dev.bingocc.com/buiweex/) | [LinkAPI JSSDK](https://www.npmjs.com/package/linkapi) | [Playground](https://weex-project.io/cn/tools/playground.html) |
 
 应用开发流程： 创建 >  编码 > 运行 > 调试 > 打包
 
@@ -14,7 +15,7 @@
 
 ## 编码
 
-小程序页面开发，基于 [Vue.js](https://vuejs.org/) 框架
+前端开发基于 [Vue.js](https://vuejs.org/) 框架
 
 ![](./assets/13_lightapp_code.png)
 

@@ -1,6 +1,6 @@
-# WebApp开发
+# 移动轻应用开发-BingoTouch
 
-移动端轻应用，其中一种是WebApp，它是基于Html5,CSS3,JS技术构建的轻应用。平台提供 [BUI](http://www.easybui.com/) 框架帮助开发者快速开发WebApp。
+BingoTouch(简称BT)是基于Cordova之上的 WebApp运行引擎，它提供了js与native通讯的能力，BT中包含了 `100+` js接口。开发者使用标准的 Html5,CSS3,JS 技术构建的轻应用页面，这些页面运行在 BT 容器之上。同时，平台提供 [BUI](http://www.easybui.com/) 框架帮助开发者快速开发WebApp。
 
 | UI框架 | JSSDK | 调试工具 | 
 | :----: |:----:|:----:|

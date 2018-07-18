@@ -1,6 +1,6 @@
-# 微服务开发
+# API接口开发-jmms
 
-微服务开发，基于[jmms](https://jmms-doc.github.io/) 框架，使用动态语言(`java`)和脚本(`js`,`sql`)开发标准的`Restfull API`。
+[jmms](https://jmms-doc.github.io/)是一款标准的 `Restfull API`开发框架。基于jmms，开发人员可以使用 JS 脚本开发 API接口，同时快速生成 Swagger文档、MarkDown文档。
 
 ## 创建
 
