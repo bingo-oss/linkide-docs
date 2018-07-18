@@ -1,39 +1,28 @@
 module.exports = {
-    title: 'LinkIDE开发者工具',
+    title: '品高云应用支撑平台-开发平台',
     author: '广州市品高软件股份有限公司',
     language: 'zh-hans',
-
+    copyright: "广州市品高软件股份有限公司 &nbsp;版权所有Copyright 2006-2018, All Rights Reserved",
     links:{
         'sidebar': {
 
         }        
     },
-
     plugins: [
         '-sharing',
-        //'-search',
-        "-fontsettings",
-        //'include-codeblock',    //https://plugins.gitbook.com/plugin/include-codeblock
-        // "theme-comscore",        
-        //'prism',                //https://plugins.gitbook.com/plugin/prism
-        //'-highlight',
-        //'anchor-navigation-ex', //https://plugins.gitbook.com/plugin/anchor-navigation-ex
-        //'splitter',             //https://plugins.gitbook.com/plugin/splitter
-        'mermaid-gb3',            //https://plugins.gitbook.com/plugin/mermaid-gb3;http://knsv.github.io/mermaid/#demos
-        //'chart',                //https://plugins.gitbook.com/plugin/chart
-        //'emphasize',            //https://plugins.gitbook.com/plugin/emphasize
-        // 'cuav-chapters',
+        "fontsettings",
+        'mermaid-gb3',
         "terminal",
         'back-to-top-button',
-        "copy-code-button"
+        "copy-code-button",
+        "prism",
+        "expandable-chapters"
     ],
 
     pluginsConfig: {
-        /*
-        'anchor-navigation-ex': {
-            'showLevel': false           
-        } 
-        */
+        "theme-default": {
+            "showLevel": false
+        }
     },
 
     styles: {
