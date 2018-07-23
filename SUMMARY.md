@@ -35,4 +35,6 @@
   * [服务号开发](scence/servicenum.md)
   * [消息中心](scence/bizemb.md)
   * [轻应用开发](scence/lightjssdk.md)
-  * [Link应用管理](scence/appmanager.md)
+  * [Link应用管理](scence/linkappmanager.md)
+    * [程序包管理](scence/packagemanager.md)
+    * [应用管理](scence/appmanager.md)
