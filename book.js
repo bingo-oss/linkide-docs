@@ -16,7 +16,8 @@ module.exports = {
         'back-to-top-button',
         "copy-code-button",
         "prism",
-        "expandable-chapters"
+        "expandable-chapters",
+        "heading-anchors"
     ],
 
     pluginsConfig: {

@@ -3,9 +3,9 @@
 [weex](https://weex-project.io/)是一套构建高性能、可扩展的原生应用跨平台开发方案，致力于使用 Web开发技术，使用同一套代码来构建跨平台应用。weex提供渲染引擎，语法解析引擎，开发者基于Vue、webpack、node技术体系构建应用，渲染出来的是原生组件，流畅性和体验上比webapp要好。目前的弊端是开发门槛较高。
 
 
-| UI框架 | JSSDK | 调试工具 | 
-| :----: |:----:|:----:|
-| [BUI-Weex](http://dev.bingocc.com/buiweex/) | [LinkAPI JSSDK](https://www.npmjs.com/package/linkapi) | [Playground](https://weex-project.io/cn/tools/playground.html) |
+| UI框架 | JSSDK | 文档 | 调试工具 | 
+| :----: |:----:|:----:|:----:|
+| [BUI-Weex](http://dev.bingocc.com/buiweex/) | [LinkAPI SDK](https://github.com/bingo-oss/mobile-linkjsapi) | [Docs](http://dev.bingocc.com/linkapi/v0.3.10/index.html) | [Playground](https://weex-project.io/cn/tools/playground.html) |
 
 应用开发流程： 创建 >  编码 > 运行 > 调试 > 打包
 
