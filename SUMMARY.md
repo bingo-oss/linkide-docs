@@ -26,8 +26,7 @@
   * [MVue框架](framework/mvue.md)
 * 使用场景
   * [登录认证](scence/ssoauth.md)
-  * [Link应用管理](scence/linkappmanager.md)
-    * [接入指南](scence/guide.md)
-	    * [远程URL网页接入](scence/url.md)
-	    * [本地网页接入](scence/localpackage.md)
-	    * [原生APP接入](scence/app.md)
+  * [Link应用接入](scence/linkappmanager.md)
+    * [远程URL网页接入](scence/urlapp.md)
+    * [本地网页接入](scence/localpackage.md)
+    * [原生APP接入](scence/app.md)
