@@ -1,32 +1,30 @@
 module.exports = {
-    title: '品高云应用支撑平台-开发平台',
+    title: '开发平台文档',
     author: '广州市品高软件股份有限公司',
     language: 'zh-hans',
-    copyright: "广州市品高软件股份有限公司 &nbsp;版权所有Copyright 2006-2018, All Rights Reserved",
-    links:{
-        'sidebar': {
-
-        }        
-    },
+    copyright: "广州市品高软件股份有限公司 &nbsp;版权所有Copyright 2003-2018, All Rights Reserved",
     plugins: [
         '-sharing',
-        "fontsettings",
-        'mermaid-gb3',
-        "terminal",
+        "-fontsettings",
         'back-to-top-button',
         "copy-code-button",
-        "prism",
         "expandable-chapters",
-        "heading-anchors"
+        "heading-anchors",
+        "theme-fexa"
     ],
 
-    pluginsConfig: {
-        "theme-default": {
-            "showLevel": false
+    "variables": {
+        "themeFexa":{
+            "nav":[
+            ]
         }
     },
 
-    styles: {
-        website: 'exstyle.css'
+    pluginsConfig: {
+        "theme-fexa":{
+            "search-placeholder":"输入关键字搜索",
+            "logo":"./assets/logo.png",
+            "favicon": "./assets/favicon.ico"
+        }
     }
 };
